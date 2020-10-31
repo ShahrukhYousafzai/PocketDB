@@ -17,4 +17,4 @@ To be able to save any kind of object into the database, Simple Database uses Ne
 
 <b>Work is in Progress...</b> 
 <br /> <br />
-Contact me at shahrukhyousafzaiofficial@gmail.com for any kind of information :) 
+Contact me at shahrukhyousafzaiofficial@gmail.com for any kind of information. Thanks! :) 
