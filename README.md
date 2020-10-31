@@ -14,3 +14,5 @@ To be able to save any kind of object into the database, Simple Database uses Ne
 ✓ Xamarin.iOS (should work, didn't test) <br />
 ✓ Xamarin.Mac <br />
 ✓ also Unity3D 
+
+<b>Work is in Progress...</b>
