@@ -5,12 +5,12 @@ The backbone of this asset is a lightweight database, which allows it to shine t
 
 To be able to save any kind of object into the database, Simple Database uses Newtonsoft Json.NET. That will allow you to serialize and store any kind of object and recover it effortlessly.
 
-✓ WPF
-✓ Windows Forms
-✓ Universal Windows Platform
-✓ Mono
-✓ Xamarin Forms
-✓ Xamarin.Android
-✓ Xamarin.iOS (should work, didn't test)
-✓ Xamarin.Mac
-✓ also Unity3D
+✓ WPF <br />
+✓ Windows Forms <br />
+✓ Universal Windows Platform <br />
+✓ Mono <br />
+✓ Xamarin Forms <br />
+✓ Xamarin.Android <br />
+✓ Xamarin.iOS (should work, didn't test) <br />
+✓ Xamarin.Mac <br />
+✓ also Unity3D 
