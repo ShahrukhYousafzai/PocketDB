@@ -4,7 +4,6 @@ PokcetDB is a solution for windows that provides the simplicity of Json.net with
 </b><b>Easy to use</b>
 
 ![Easy to use](screenshots/first.jpg)
-![Easy to use](screenshots/second.jpg)
 
 The backbone of this asset is a lightweight database, which allows it to shine the brightest when it matters the most: when the save files are big and threaten to become a bottleneck for your application. But this asset is more than just a faster solution; you will be able to split your app data into different files, providing a simple, reliable and well-organized solution for your needs.
 
