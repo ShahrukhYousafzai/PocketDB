@@ -7,13 +7,6 @@ To be able to save any kind of object into the database, PocketDB uses Newtonsof
 
 ✓ WPF <br />
 ✓ Windows Forms <br />
-✓ Universal Windows Platform <br />
-✓ Mono <br />
-✓ Xamarin Forms <br />
-✓ Xamarin.Android <br />
-✓ Xamarin.iOS (should work, didn't test) <br />
-✓ Xamarin.Mac <br />
-✓ also Unity3D 
 
 <b>Work is in Progress...</b> 
 <br /> <br />
