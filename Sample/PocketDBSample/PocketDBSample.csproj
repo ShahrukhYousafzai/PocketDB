@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BplusDotNet">
+      <HintPath>F:\Projects\PocketDB\PocketDB\bin\Debug\netstandard2.0\BplusDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="PocketDB">
+      <HintPath>F:\Projects\PocketDB\PocketDB\bin\Debug\netstandard2.0\PocketDB.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
