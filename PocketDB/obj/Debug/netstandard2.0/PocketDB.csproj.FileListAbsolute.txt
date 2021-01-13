@@ -1,0 +1,9 @@
+F:\Projects\PocketDB\PocketDB\bin\Debug\netstandard2.0\PocketDB.deps.json
+F:\Projects\PocketDB\PocketDB\bin\Debug\netstandard2.0\PocketDB.dll
+F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.AssemblyInfoInputs.cache
+F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.AssemblyInfo.cs
+F:\Projects\PocketDB\PocketDB\bin\Debug\netstandard2.0\PocketDB.pdb
+F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.csproj.CoreCompileInputs.cache
+F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.csproj.CopyComplete
+F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.dll
+F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.pdb

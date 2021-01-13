@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qwrFg+KdyK4a2SzMphxWCDbCdoI9xsCr7so1YnEoFWSS5oHeiV9Bs8XcrFa4vfUgDfb3w44zeTP1bHC3imi8TQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\PocketDB\\PocketDB\\PocketDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
