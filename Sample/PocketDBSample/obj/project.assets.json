@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shahrukh\\source\\repos\\PocketDBSample\\PocketDBSample\\PocketDBSample.csproj",
+      "projectUniqueName": "C:\\Users\\Shahrukh\\Documents\\GitHub\\PocketDB\\Sample\\PocketDBSample\\PocketDBSample.csproj",
       "projectName": "PocketDBSample",
-      "projectPath": "C:\\Users\\Shahrukh\\source\\repos\\PocketDBSample\\PocketDBSample\\PocketDBSample.csproj",
+      "projectPath": "C:\\Users\\Shahrukh\\Documents\\GitHub\\PocketDB\\Sample\\PocketDBSample\\PocketDBSample.csproj",
       "packagesPath": "C:\\Users\\Shahrukh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shahrukh\\source\\repos\\PocketDBSample\\PocketDBSample\\obj\\",
+      "outputPath": "C:\\Users\\Shahrukh\\Documents\\GitHub\\PocketDB\\Sample\\PocketDBSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

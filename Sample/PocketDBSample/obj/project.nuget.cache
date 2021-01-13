@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rS0+JIgjmRtuinFYXfNA0SkKDzdhSSFlLxCW1N84fGgssxcSGIs9Pz5gNRS4u5OByIiGD7F0uuMRLI/yPrFSsg==",
+  "dgSpecHash": "QDg9cMi1/jLhRZs5ub6KFYFz6yXTB1uB/iNdMvcj5WiueW+2DBbWONNqwen37Z771mcuwPLxw0qliF2zgjA3eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shahrukh\\source\\repos\\PocketDBSample\\PocketDBSample\\PocketDBSample.csproj",
+  "projectFilePath": "C:\\Users\\Shahrukh\\Documents\\GitHub\\PocketDB\\Sample\\PocketDBSample\\PocketDBSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahrukh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
