@@ -12,6 +12,6 @@ To be able to save any kind of object into the database, PocketDB uses Newtonsof
 ✓ WPF <br />
 ✓ Windows Forms <br />
 
-<b>Work is in Progress...</b> 
+<b>Would really appreciate if you want to improve PocketDB. Just Pull request for it :)</b> 
 <br /> <br />
 Contact me at shahrukhyousafzaiofficial@gmail.com for any kind of information. Thanks! :) 
