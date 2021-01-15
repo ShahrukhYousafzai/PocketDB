@@ -12,7 +12,7 @@ To be able to save any kind of object into the database, PocketDB uses Newtonsof
 ✓ WPF <br />
 ✓ Windows Forms <br />
 
-Installation
+## Nuget Installation
 
 ```bash
 Install-Package PocketDB
