@@ -5,7 +5,7 @@
   },
   "projects": {
     "F:\\Projects\\PocketDB\\PocketDB\\PocketDB.csproj": {
-      "version": "1.0.1",
+      "version": "1.0.1.1",
       "restore": {
         "projectUniqueName": "F:\\Projects\\PocketDB\\PocketDB\\PocketDB.csproj",
         "projectName": "PocketDB",
@@ -47,7 +47,7 @@
           "dependencies": {
             "BplusDotNet": {
               "target": "Package",
-              "version": "[1.0.1, )"
+              "version": "[1.0.1.1, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

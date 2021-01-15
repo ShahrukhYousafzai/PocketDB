@@ -6,4 +6,3 @@ F:\Projects\PocketDB\PocketDB\bin\Debug\netstandard2.0\PocketDB.pdb
 F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.csproj.CoreCompileInputs.cache
 F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.dll
 F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.pdb
-F:\Projects\PocketDB\PocketDB\obj\Debug\netstandard2.0\PocketDB.csprojAssemblyReference.cache

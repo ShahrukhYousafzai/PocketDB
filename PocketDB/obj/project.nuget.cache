@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k0RaC+MalkW1WWwYbM+Vctdo3eo5zNkxUc+JqvB5ZxZhEpgZp+7PfZ2z9ychNUG6DQp5S4uCBAifJ4XAcPhljw==",
+  "dgSpecHash": "T8Dg/mv62BRoRobpTVXjeLbKrycKwFbtehBmXqRC4Msd7C742VzTyPgPypJZvxVBrfVqZCx5yJs716X7bMFZDQ==",
   "success": true,
   "projectFilePath": "F:\\Projects\\PocketDB\\PocketDB\\PocketDB.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shahrukh\\.nuget\\packages\\bplusdotnet\\1.0.1\\bplusdotnet.1.0.1.nupkg.sha512",
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\bplusdotnet\\1.0.1.1\\bplusdotnet.1.0.1.1.nupkg.sha512",
     "C:\\Users\\Shahrukh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Shahrukh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Shahrukh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
@@ -14,7 +14,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'BplusDotNet 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'BplusDotNet 1.0.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "BplusDotNet",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

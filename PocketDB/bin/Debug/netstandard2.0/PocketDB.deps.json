@@ -7,9 +7,9 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "PocketDB/1.0.1": {
+      "PocketDB/1.0.1.1": {
         "dependencies": {
-          "BplusDotNet": "1.0.1",
+          "BplusDotNet": "1.0.1.1",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.3"
         },
@@ -17,11 +17,11 @@
           "PocketDB.dll": {}
         }
       },
-      "BplusDotNet/1.0.1": {
+      "BplusDotNet/1.0.1.1": {
         "runtime": {
           "lib/net48/BplusDotNet.dll": {
-            "assemblyVersion": "1.0.7685.14866",
-            "fileVersion": "1.0.7685.14866"
+            "assemblyVersion": "1.0.7685.17202",
+            "fileVersion": "1.0.7685.17202"
           }
         }
       },
@@ -42,17 +42,17 @@
     }
   },
   "libraries": {
-    "PocketDB/1.0.1": {
+    "PocketDB/1.0.1.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "BplusDotNet/1.0.1": {
+    "BplusDotNet/1.0.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-G7PDQYHqznsz0RGLFJPuO5+UCg0YIWJmcJzKRKvi15XkId0ore/06C91dEZLYx3spP058dDayyRCH39p70oP6g==",
-      "path": "bplusdotnet/1.0.1",
-      "hashPath": "bplusdotnet.1.0.1.nupkg.sha512"
+      "sha512": "sha512-U9e1hBbtWGO/QBp+fNUHEUtiWG/BVPNtlZAQbx3fDYv/azJtd91Tq2t4XSvKEIhls2cT0ocMXM3R+YXkoWE+fA==",
+      "path": "bplusdotnet/1.0.1.1",
+      "hashPath": "bplusdotnet.1.0.1.1.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
