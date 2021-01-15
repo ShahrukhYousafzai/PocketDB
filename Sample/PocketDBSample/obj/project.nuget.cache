@@ -1,10 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "QDg9cMi1/jLhRZs5ub6KFYFz6yXTB1uB/iNdMvcj5WiueW+2DBbWONNqwen37Z771mcuwPLxw0qliF2zgjA3eg==",
+  "dgSpecHash": "6l0CVN2/cMvTOyD3UBbU3p+PnOEUtT7cC2aDweqEvtbIY/YzfqEw32BLeLNkwAmXQqHOeSziub4sSvf0YeJf2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shahrukh\\Documents\\GitHub\\PocketDB\\Sample\\PocketDBSample\\PocketDBSample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shahrukh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\bplusdotnet\\1.0.1.1\\bplusdotnet.1.0.1.1.nupkg.sha512",
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Shahrukh\\.nuget\\packages\\pocketdb\\1.0.1.1\\pocketdb.1.0.1.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BplusDotNet 1.0.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BplusDotNet",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

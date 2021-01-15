@@ -6,14 +6,21 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "PocketDBSample/1.0.0": {
+      "PocketDBSample/1.0.1.1": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
-          "BplusDotNet": "1.0.6876.6073",
-          "PocketDB": "1.0.0.0"
+          "PocketDB": "1.0.1.1"
         },
         "runtime": {
           "PocketDBSample.dll": {}
+        }
+      },
+      "BplusDotNet/1.0.1.1": {
+        "runtime": {
+          "lib/net48/BplusDotNet.dll": {
+            "assemblyVersion": "1.0.7685.17202",
+            "fileVersion": "1.0.7685.17202"
+          }
         }
       },
       "Newtonsoft.Json/12.0.3": {
@@ -24,29 +31,32 @@
           }
         }
       },
-      "BplusDotNet/1.0.6876.6073": {
+      "PocketDB/1.0.1.1": {
+        "dependencies": {
+          "BplusDotNet": "1.0.1.1",
+          "Newtonsoft.Json": "12.0.3"
+        },
         "runtime": {
-          "BplusDotNet.dll": {
-            "assemblyVersion": "1.0.6876.6073",
-            "fileVersion": "1.0.6876.6073"
-          }
-        }
-      },
-      "PocketDB/1.0.0.0": {
-        "runtime": {
-          "PocketDB.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+          "lib/netstandard2.0/PocketDB.dll": {
+            "assemblyVersion": "1.0.1.1",
+            "fileVersion": "1.0.1.1"
           }
         }
       }
     }
   },
   "libraries": {
-    "PocketDBSample/1.0.0": {
+    "PocketDBSample/1.0.1.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "BplusDotNet/1.0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U9e1hBbtWGO/QBp+fNUHEUtiWG/BVPNtlZAQbx3fDYv/azJtd91Tq2t4XSvKEIhls2cT0ocMXM3R+YXkoWE+fA==",
+      "path": "bplusdotnet/1.0.1.1",
+      "hashPath": "bplusdotnet.1.0.1.1.nupkg.sha512"
     },
     "Newtonsoft.Json/12.0.3": {
       "type": "package",
@@ -55,15 +65,12 @@
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
-    "BplusDotNet/1.0.6876.6073": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "PocketDB/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
+    "PocketDB/1.0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GMZo7hs+7GUjMyPQj1Zba9EyP/ThYqsDv8FSvnckOje2qs1P0JTshBHpo3o6dUS5uAS797PhfipxvZmscejdvQ==",
+      "path": "pocketdb/1.0.1.1",
+      "hashPath": "pocketdb.1.0.1.1.nupkg.sha512"
     }
   }
 }

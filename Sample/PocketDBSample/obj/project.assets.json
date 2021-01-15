@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "BplusDotNet/1.0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net48/BplusDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net48/BplusDotNet.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
@@ -10,10 +19,35 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "PocketDB/1.0.1.1": {
+        "type": "package",
+        "dependencies": {
+          "BplusDotNet": "1.0.1.1",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/PocketDB.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PocketDB.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "BplusDotNet/1.0.1.1": {
+      "sha512": "U9e1hBbtWGO/QBp+fNUHEUtiWG/BVPNtlZAQbx3fDYv/azJtd91Tq2t4XSvKEIhls2cT0ocMXM3R+YXkoWE+fA==",
+      "type": "package",
+      "path": "bplusdotnet/1.0.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bplusdotnet.1.0.1.1.nupkg.sha512",
+        "bplusdotnet.nuspec",
+        "lib/net48/BplusDotNet.dll"
+      ]
+    },
     "Newtonsoft.Json/12.0.3": {
       "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
@@ -44,11 +78,24 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "PocketDB/1.0.1.1": {
+      "sha512": "GMZo7hs+7GUjMyPQj1Zba9EyP/ThYqsDv8FSvnckOje2qs1P0JTshBHpo3o6dUS5uAS797PhfipxvZmscejdvQ==",
+      "type": "package",
+      "path": "pocketdb/1.0.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/PocketDB.dll",
+        "pocketdb.1.0.1.1.nupkg.sha512",
+        "pocketdb.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Newtonsoft.Json >= 12.0.3"
+      "Newtonsoft.Json >= 12.0.3",
+      "PocketDB >= 1.0.1.1"
     ]
   },
   "packageFolders": {
@@ -56,7 +103,7 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\Shahrukh\\Documents\\GitHub\\PocketDB\\Sample\\PocketDBSample\\PocketDBSample.csproj",
       "projectName": "PocketDBSample",
@@ -99,6 +146,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[12.0.3, )"
+          },
+          "PocketDB": {
+            "target": "Package",
+            "version": "[1.0.1.1, )"
           }
         },
         "imports": [
@@ -119,5 +170,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BplusDotNet 1.0.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BplusDotNet",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
