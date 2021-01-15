@@ -2,16 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Shahrukh Yousafzai</Authors>
+    <Description>PocketDB is a solution that provides the simplicity of Json.net without sacrificing scalability and versatility. With this asset, you will get going with just 4 lines of code!</Description>
+    <PackageProjectUrl>https://github.com/ShahrukhYousafzai/PocketDB/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ShahrukhYousafzai/PocketDB/</RepositoryUrl>
+    <PackageTags>database, json, saving, save, upload, pocketdb</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="BplusDotNet" Version="1.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="BplusDotNet">
-      <HintPath>bin\Debug\netstandard2.0\BplusDotNet.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>
